@@ -1,5 +1,10 @@
 # Terraform provider for Humio
 
+## Why is this here?
+
+Because Humio/Log Scale/whatever is the company name decided to be so professional and remove the original repo.
+I understand it is unsupported and experimental, but still - that says a lot about customer support. 
+
 **UNSUPPORTED AND EXPERIMENTAL: It is still early days for this plugin and thus not ready for prime time yet.**
 
 ## Currently tested with
